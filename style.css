@@ -1,5 +1,10 @@
 body{
     font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+.main-bg{
+    background-image: url(./image/top-banner.png);
+    background-repeat: no-repeat;
 }
 .head-title{
 text-align: center;
@@ -21,7 +26,7 @@ color: rgb(121, 107, 32);
 }
 #head-title-2{
 margin-top: 0;
-font-size: medium
+font-size: small
 }
 .front-page-style{
     margin-top: 150px;
