@@ -78,19 +78,18 @@ margin-left: 100px;
 
 .gallery{
 text-align: center;
-margin: 0;
 color: white;
-background-color: black;
 padding-top: 20px;
+background-color: black;
 }
 .gallery-title{
+    /* font-family: 'Lora', serif; */
 font-size: 30px;
 }
 .gallery-image{
-
+padding-bottom: 50px;
 }
 .img-fst-raw{
-    padding: 2px;
 }
 .img-sec-raw{
 
