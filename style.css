@@ -8,6 +8,7 @@ body{
 .main-bg{
     background-image: url(./image/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 header{
     padding-top: 30px;
@@ -72,4 +73,28 @@ margin-left: 100px;
     width: 50%;
     margin-right: 0%;
     text-align: center;
+    padding: 20px;
+}
+
+.gallery{
+text-align: center;
+margin: 0;
+color: white;
+background-color: black;
+padding-top: 20px;
+}
+.gallery-title{
+font-size: 30px;
+}
+.gallery-image{
+
+}
+.img-fst-raw{
+    padding: 2px;
+}
+.img-sec-raw{
+
+}
+.img-last-raw{
+
 }
