@@ -99,7 +99,7 @@ padding-bottom: 50px;
 }
 .last-page{
     display: flex;
-    margin:  180px 120px 200px 80px;
+    margin:  150px 120px 200px 80px;
 }
 .support-section{
     width: 30%;
@@ -148,4 +148,11 @@ textarea{
 .btn:hover{
     background-color: red;
     cursor: pointer;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: small;
+    padding: 2px;
 }
