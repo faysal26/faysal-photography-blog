@@ -1,0 +1,57 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.head-title{
+text-align: center;
+margin-top: 50px;
+/* font-family: 'Lora', serif; */
+font-family: 'Yeseva One', cursive;
+font-size: x-large;
+
+color: rgb(121, 107, 32);
+}
+#head-title-1{
+    margin-bottom: 0;
+    /* background-image: linear-gradient(red , black); */
+
+    background: -webkit-linear-gradient(rgb(255, 217, 0), rgb(136, 135, 135));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+#head-title-2{
+margin-top: 0;
+font-size: medium
+}
+.front-page-style{
+    margin-top: 150px;
+    display: flex;
+}
+#name{
+    color: orange;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.social-media{
+    font-size: large;
+    padding-top: 5px;
+    width: 25%;
+    text-align: center;
+    margin-top: 50px;
+}
+#social-media-head{
+margin-bottom: 0%;
+}
+#social-media-icon{
+margin-top: 10px;
+}
+.left-side{
+width: 50%;
+margin-top: 80px;
+margin-left: 100px;
+}
+.right-side{
+    width: 50%;
+    margin-right: 0%;
+    text-align: center;
+}
