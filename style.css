@@ -1,16 +1,21 @@
 body{
     font-family: "Poppins", sans-serif;
     margin: 0;
+    box-sizing: border-box;
+    padding: 0;
 }
 
 .main-bg{
     background-image: url(./image/top-banner.png);
     background-repeat: no-repeat;
 }
-
+header{
+    padding-top: 30px;
+}
 .head-title{
 text-align: center;
-margin-top: 50px;
+/* margin-top: 50px; */
+
 /* font-family: 'Lora', serif; */
 font-family: 'Yeseva One', cursive;
 font-size: x-large;
@@ -18,7 +23,8 @@ color: rgb(121, 107, 32);
 }
 
 #head-title-1{
-    margin-bottom: 0;
+    margin: 0;
+    /* margin-bottom: 0; */
     background: -webkit-linear-gradient(rgb(255, 217, 0), rgb(136, 135, 135));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
